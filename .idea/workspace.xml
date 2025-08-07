@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c93087f8-e194-4de6-bc6f-5921c611014b" name="Changes" comment="hello world">
-      <change afterPath="$PROJECT_DIR$/PythonVillage/INI1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonVillage/INI2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonVillage/INI3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="c93087f8-e194-4de6-bc6f-5921c611014b" name="Changes" comment="new files">
+      <change afterPath="$PROJECT_DIR$/PythonVillage/INI6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonVillage/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonVillage/output.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonVillage/INI5.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonVillage/INI5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,21 +26,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "BenjaminJLloyd"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;BenjaminJLloyd&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/BenjaminJLloyd/Rosalind.git",
-    "accountId": "fbe2b12e-c049-4b21-8a76-9dea890d6ec1"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/BenjaminJLloyd/Rosalind.git&quot;,
+    &quot;accountId&quot;: &quot;fbe2b12e-c049-4b21-8a76-9dea890d6ec1&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="30vKuW2R7Zopy5rVstfNgQb0lSr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -53,6 +53,10 @@
   "keyToString": {
     "Python.INI1.executor": "Run",
     "Python.INI2.executor": "Run",
+    "Python.INI3.executor": "Run",
+    "Python.INI4.executor": "Run",
+    "Python.INI5.executor": "Run",
+    "Python.INI6.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
@@ -63,6 +67,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/PythonVillage" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -80,6 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1754502828644</updated>
       <workItem from="1754502830029" duration="2038000" />
+      <workItem from="1754563131606" duration="3621000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <option name="closed" value="true" />
@@ -97,7 +107,23 @@
       <option name="project" value="LOCAL" />
       <updated>1754507785289</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="hello world">
+      <option name="closed" value="true" />
+      <created>1754563199752</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1754563199752</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new files">
+      <option name="closed" value="true" />
+      <created>1754565435949</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1754565435949</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,10 +143,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
     <MESSAGE value="hello world" />
-    <option name="LAST_COMMIT_MESSAGE" value="hello world" />
+    <MESSAGE value="new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="new files" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Rosalind$INI6.coverage" NAME="INI6 Coverage Results" MODIFIED="1754568300516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonVillage" />
     <SUITE FILE_PATH="coverage/Rosalind$INI2.coverage" NAME="INI2 Coverage Results" MODIFIED="1754511682506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonVillage" />
     <SUITE FILE_PATH="coverage/Rosalind$INI1.coverage" NAME="INI1 Coverage Results" MODIFIED="1754508412721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonVillage" />
+    <SUITE FILE_PATH="coverage/Rosalind$INI4.coverage" NAME="INI4 Coverage Results" MODIFIED="1754565311791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonVillage" />
+    <SUITE FILE_PATH="coverage/Rosalind$INI5.coverage" NAME="INI5 Coverage Results" MODIFIED="1754567570786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonVillage" />
+    <SUITE FILE_PATH="coverage/Rosalind$INI3.coverage" NAME="INI3 Coverage Results" MODIFIED="1754564666628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonVillage" />
   </component>
 </project>
